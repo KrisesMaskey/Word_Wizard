@@ -10,5 +10,5 @@ None
 Installation: 
 
 1. Download the Program Folder 
-2. Open dist and run pyda.exe 
+2. Run makefile 
 3. Enjoy
